@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/isahilmishra/a2z-sheet/tree/master/0007-reverse-integer) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Simulation
 |  |
