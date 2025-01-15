@@ -58,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/isahilmishra/a2z-sheet/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/isahilmishra/a2z-sheet/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
