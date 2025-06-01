@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/isahilmishra/a2z-sheet/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/isahilmishra/a2z-sheet/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/isahilmishra/a2z-sheet/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/isahilmishra/a2z-sheet/tree/master/0066-plus-one) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/isahilmishra/a2z-sheet/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/isahilmishra/a2z-sheet/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
