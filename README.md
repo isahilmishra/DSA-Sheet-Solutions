@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/isahilmishra/a2z-sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/isahilmishra/a2z-sheet/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/isahilmishra/a2z-sheet/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/isahilmishra/a2z-sheet/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/isahilmishra/a2z-sheet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/isahilmishra/a2z-sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0169-majority-element) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/isahilmishra/a2z-sheet/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/isahilmishra/a2z-sheet/tree/master/0058-length-of-last-word) |
