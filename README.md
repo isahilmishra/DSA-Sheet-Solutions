@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/isahilmishra/a2z-sheet/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/isahilmishra/a2z-sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/isahilmishra/a2z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/isahilmishra/a2z-sheet/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/isahilmishra/a2z-sheet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/isahilmishra/a2z-sheet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/isahilmishra/a2z-sheet/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/isahilmishra/a2z-sheet/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/isahilmishra/a2z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isahilmishra/a2z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0169-majority-element) |
+| [1034-subarrays-with-k-different-integers](https://github.com/isahilmishra/a2z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/isahilmishra/a2z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/isahilmishra/a2z-sheet/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/isahilmishra/a2z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/isahilmishra/a2z-sheet/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isahilmishra/a2z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/isahilmishra/a2z-sheet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
