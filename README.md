@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/isahilmishra/a2z-sheet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/isahilmishra/a2z-sheet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 | [2032-largest-odd-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Simulation
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/isahilmishra/a2z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/isahilmishra/a2z-sheet/tree/master/0496-next-greater-element-i) |
+| [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/isahilmishra/a2z-sheet/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/isahilmishra/a2z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0169-majority-element) |
+| [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/isahilmishra/a2z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/isahilmishra/a2z-sheet/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 ## Number Theory
 |  |
 | ------- |
