@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/isahilmishra/a2z-sheet/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/isahilmishra/a2z-sheet/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/isahilmishra/a2z-sheet/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/isahilmishra/a2z-sheet/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/isahilmishra/a2z-sheet/tree/master/0073-set-matrix-zeroes) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0169-majority-element) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/isahilmishra/a2z-sheet/tree/master/0078-subsets) |
 ## Enumeration
 |  |
