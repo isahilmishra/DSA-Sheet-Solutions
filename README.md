@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/isahilmishra/a2z-sheet/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/isahilmishra/a2z-sheet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/isahilmishra/a2z-sheet/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/isahilmishra/a2z-sheet/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/isahilmishra/a2z-sheet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/isahilmishra/a2z-sheet/tree/master/0074-search-a-2d-matrix) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/isahilmishra/a2z-sheet/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/isahilmishra/a2z-sheet/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/isahilmishra/a2z-sheet/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/isahilmishra/a2z-sheet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/isahilmishra/a2z-sheet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/isahilmishra/a2z-sheet/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/isahilmishra/a2z-sheet/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/isahilmishra/a2z-sheet/tree/master/0943-sum-of-subarray-minimums) |
