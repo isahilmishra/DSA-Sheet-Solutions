@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/isahilmishra/a2z-sheet/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/isahilmishra/a2z-sheet/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/isahilmishra/a2z-sheet/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/isahilmishra/a2z-sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0148-sort-list) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/isahilmishra/a2z-sheet/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/isahilmishra/a2z-sheet/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/isahilmishra/a2z-sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/isahilmishra/a2z-sheet/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/isahilmishra/a2z-sheet/tree/master/0402-remove-k-digits) |
