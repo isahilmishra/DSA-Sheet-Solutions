@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/isahilmishra/a2z-sheet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/isahilmishra/a2z-sheet/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
+| [1013-fibonacci-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/isahilmishra/a2z-sheet/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/isahilmishra/a2z-sheet/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/isahilmishra/a2z-sheet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/isahilmishra/a2z-sheet/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -393,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
