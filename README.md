@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/isahilmishra/a2z-sheet/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/isahilmishra/a2z-sheet/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/isahilmishra/a2z-sheet/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/isahilmishra/a2z-sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/isahilmishra/a2z-sheet/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/isahilmishra/a2z-sheet/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/isahilmishra/a2z-sheet/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/isahilmishra/a2z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/0451-sort-characters-by-frequency) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/isahilmishra/a2z-sheet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/isahilmishra/a2z-sheet/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/isahilmishra/a2z-sheet/tree/master/0085-maximal-rectangle) |
+| [0392-is-subsequence](https://github.com/isahilmishra/a2z-sheet/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/isahilmishra/a2z-sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1013-fibonacci-number) |
