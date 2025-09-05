@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/isahilmishra/a2z-sheet/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/isahilmishra/a2z-sheet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/isahilmishra/a2z-sheet/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/isahilmishra/a2z-sheet/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Number Theory
 |  |
 | ------- |
@@ -508,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/isahilmishra/a2z-sheet/tree/master/0404-sum-of-left-leaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
