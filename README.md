@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/isahilmishra/a2z-sheet/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1013-fibonacci-number) |
+| [1033-broken-calculator](https://github.com/isahilmishra/a2z-sheet/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/isahilmishra/a2z-sheet/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/isahilmishra/a2z-sheet/tree/master/0455-assign-cookies) |
+| [1033-broken-calculator](https://github.com/isahilmishra/a2z-sheet/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/isahilmishra/a2z-sheet/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2032-largest-odd-number-in-string) |
