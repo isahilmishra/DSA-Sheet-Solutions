@@ -1,7 +1,6 @@
-/*Linked list Node structure
-
-struct Node
-{
+/*
+class Node {
+  public:
     int data;
     Node* next;
 
@@ -9,14 +8,13 @@ struct Node
         data = x;
         next = NULL;
     }
-
 };
 */
 
 class Solution {
   public:
     Node* mergeKLists(vector<Node*>& listArray) {
-        // Your code here
+        // code here
          priority_queue<pair<int, Node*>,
                   vector<pair<int, Node*>>,greater<pair<int,Node*>>> pq;
     
