@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/isahilmishra/a2z-sheet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/isahilmishra/a2z-sheet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1646-kth-missing-positive-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/isahilmishra/a2z-sheet/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/isahilmishra/a2z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isahilmishra/a2z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/isahilmishra/a2z-sheet/tree/master/0455-assign-cookies) |
 | [1033-broken-calculator](https://github.com/isahilmishra/a2z-sheet/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/isahilmishra/a2z-sheet/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
