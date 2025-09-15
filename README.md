@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/isahilmishra/a2z-sheet/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/isahilmishra/a2z-sheet/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/isahilmishra/a2z-sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/isahilmishra/a2z-sheet/tree/master/0496-next-greater-element-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/isahilmishra/a2z-sheet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/isahilmishra/a2z-sheet/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/isahilmishra/a2z-sheet/tree/master/0389-find-the-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/isahilmishra/a2z-sheet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/isahilmishra/a2z-sheet/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/isahilmishra/a2z-sheet/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/isahilmishra/a2z-sheet/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/isahilmishra/a2z-sheet/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/isahilmishra/a2z-sheet/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/isahilmishra/a2z-sheet/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/isahilmishra/a2z-sheet/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/isahilmishra/a2z-sheet/tree/master/0424-longest-repeating-character-replacement) |
