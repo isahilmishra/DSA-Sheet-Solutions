@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/isahilmishra/a2z-sheet/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2470-removing-stars-from-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2470-removing-stars-from-a-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/isahilmishra/a2z-sheet/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2470-removing-stars-from-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/3462-vowels-game-in-a-string) |
 ## Greedy
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/isahilmishra/a2z-sheet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/isahilmishra/a2z-sheet/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2470-removing-stars-from-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
