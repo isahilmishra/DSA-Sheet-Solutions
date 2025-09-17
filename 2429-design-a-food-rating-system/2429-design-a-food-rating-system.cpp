@@ -22,12 +22,12 @@ public:
         int oldRating= food_rating[food];
 
         food_rating[food]=newRating;
-        cuisines_rating_food[cuisine].erase({-oldRating,food});
-         cuisines_rating_food[cuisine].insert({-newRating,food});
+        cuisines_rating_food[cuisine].erase({-oldRating,food}); //TC-log(n);
+         cuisines_rating_food[cuisine].insert({-newRating,food});//log(n);
     }
     
     string highestRated(string cuisine) {
-        return begin(cuisines_rating_food[cuisine])->second;
+        return begin(cuisines_rating_food[cuisine])->second; //O(1);
     }
 };
 
