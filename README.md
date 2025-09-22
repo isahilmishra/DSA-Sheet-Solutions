@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/isahilmishra/a2z-sheet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/isahilmishra/a2z-sheet/tree/master/2529-range-product-queries-of-powers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/isahilmishra/a2z-sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2429-design-a-food-rating-system](https://github.com/isahilmishra/a2z-sheet/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/isahilmishra/a2z-sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/isahilmishra/a2z-sheet/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/isahilmishra/a2z-sheet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
