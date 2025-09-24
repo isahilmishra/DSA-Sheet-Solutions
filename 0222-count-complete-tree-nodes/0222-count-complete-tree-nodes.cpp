@@ -11,16 +11,29 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, vector<int> &ans){
-        if(!root) return;
-        solve(root->left,ans);
-        ans.push_back(root->val);
-        solve(root->right,ans);
-    }
     int countNodes(TreeNode* root) {
-        vector<int> ans;
-         if(!root) return 0;
-         solve(root,ans);
-         return ans.size();
+        //In log(n) TC
+        if(!root) return 0;
+        int lh= findLeftH(root);
+        int rh=findRightH(root);
+
+        if(lh==rh) return (1<<lh)-1;
+        return 1+ countNodes(root->left) + countNodes(root->right);
+    }
+    int findLeftH(TreeNode* node){
+       int h=0;
+       while(node){
+        h++;
+        node=node->left;
+       }
+       return h;
+    }
+    int findRightH(TreeNode* node){
+        int h=0;
+        while(node){
+            h++;
+            node=node->right;
+        }
+        return h;
     }
 };
