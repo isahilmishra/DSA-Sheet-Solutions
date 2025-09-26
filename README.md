@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/isahilmishra/a2z-sheet/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/isahilmishra/a2z-sheet/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/isahilmishra/a2z-sheet/tree/master/0907-koko-eating-bananas) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/isahilmishra/a2z-sheet/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/isahilmishra/a2z-sheet/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/isahilmishra/a2z-sheet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/isahilmishra/a2z-sheet/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/isahilmishra/a2z-sheet/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/isahilmishra/a2z-sheet/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/isahilmishra/a2z-sheet/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/isahilmishra/a2z-sheet/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/isahilmishra/a2z-sheet/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/isahilmishra/a2z-sheet/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/isahilmishra/a2z-sheet/tree/master/0876-hand-of-straights) |
 | [1033-broken-calculator](https://github.com/isahilmishra/a2z-sheet/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1448-maximum-69-number) |
