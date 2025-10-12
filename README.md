@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/isahilmishra/a2z-sheet/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/isahilmishra/a2z-sheet/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/isahilmishra/a2z-sheet/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/isahilmishra/a2z-sheet/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/isahilmishra/a2z-sheet/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0966-binary-subarrays-with-sum) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/isahilmishra/a2z-sheet/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
+| [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/isahilmishra/a2z-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/isahilmishra/a2z-sheet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/isahilmishra/a2z-sheet/tree/master/0876-hand-of-straights) |
+| [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
 | [1033-broken-calculator](https://github.com/isahilmishra/a2z-sheet/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
