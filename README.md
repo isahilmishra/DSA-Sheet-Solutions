@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/isahilmishra/a2z-sheet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/isahilmishra/a2z-sheet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/isahilmishra/a2z-sheet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/isahilmishra/a2z-sheet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/isahilmishra/a2z-sheet/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/isahilmishra/a2z-sheet/tree/master/0066-plus-one) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/isahilmishra/a2z-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/isahilmishra/a2z-sheet/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/isahilmishra/a2z-sheet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/isahilmishra/a2z-sheet/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/isahilmishra/a2z-sheet/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/isahilmishra/a2z-sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/isahilmishra/a2z-sheet/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/isahilmishra/a2z-sheet/tree/master/0169-majority-element) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/isahilmishra/a2z-sheet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/isahilmishra/a2z-sheet/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/isahilmishra/a2z-sheet/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/isahilmishra/a2z-sheet/tree/master/0076-minimum-window-substring) |
