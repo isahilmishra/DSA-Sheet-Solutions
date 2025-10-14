@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/isahilmishra/a2z-sheet/tree/master/3311-ant-on-the-boundary) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
