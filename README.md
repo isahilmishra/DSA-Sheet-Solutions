@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/isahilmishra/a2z-sheet/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/isahilmishra/a2z-sheet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/isahilmishra/a2z-sheet/tree/master/0485-max-consecutive-ones) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/isahilmishra/a2z-sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0611-valid-triangle-number) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/isahilmishra/a2z-sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/isahilmishra/a2z-sheet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/isahilmishra/a2z-sheet/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/isahilmishra/a2z-sheet/tree/master/0389-find-the-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/isahilmishra/a2z-sheet/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/isahilmishra/a2z-sheet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/isahilmishra/a2z-sheet/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/isahilmishra/a2z-sheet/tree/master/0392-is-subsequence) |
