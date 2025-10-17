@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/isahilmishra/a2z-sheet/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/isahilmishra/a2z-sheet/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/isahilmishra/a2z-sheet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/3462-vowels-game-in-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/isahilmishra/a2z-sheet/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/isahilmishra/a2z-sheet/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/isahilmishra/a2z-sheet/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/isahilmishra/a2z-sheet/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/isahilmishra/a2z-sheet/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/isahilmishra/a2z-sheet/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/isahilmishra/a2z-sheet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2305-append-k-integers-with-minimal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/isahilmishra/a2z-sheet/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2032-largest-odd-number-in-string) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2305-append-k-integers-with-minimal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
