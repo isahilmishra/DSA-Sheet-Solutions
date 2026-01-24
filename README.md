@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/isahilmishra/a2z-sheet/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/isahilmishra/a2z-sheet/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/isahilmishra/a2z-sheet/tree/master/0268-missing-number) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/isahilmishra/a2z-sheet/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/isahilmishra/a2z-sheet/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/isahilmishra/a2z-sheet/tree/master/0713-subarray-product-less-than-k) |
