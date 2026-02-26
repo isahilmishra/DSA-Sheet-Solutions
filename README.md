@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/isahilmishra/a2z-sheet/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/isahilmishra/a2z-sheet/tree/master/0735-asteroid-collision) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/isahilmishra/a2z-sheet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2470-removing-stars-from-a-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2470-removing-stars-from-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/isahilmishra/a2z-sheet/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/isahilmishra/a2z-sheet/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/isahilmishra/a2z-sheet/tree/master/0397-integer-replacement) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/isahilmishra/a2z-sheet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/isahilmishra/a2z-sheet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/isahilmishra/a2z-sheet/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/isahilmishra/a2z-sheet/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/isahilmishra/a2z-sheet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isahilmishra/a2z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/isahilmishra/a2z-sheet/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
