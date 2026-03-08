@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/isahilmishra/a2z-sheet/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/isahilmishra/a2z-sheet/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1980-find-unique-binary-string](https://github.com/isahilmishra/a2z-sheet/tree/master/1980-find-unique-binary-string) |
 | [2047-find-a-peak-element-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isahilmishra/a2z-sheet/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/isahilmishra/a2z-sheet/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isahilmishra/a2z-sheet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/isahilmishra/a2z-sheet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1980-find-unique-binary-string](https://github.com/isahilmishra/a2z-sheet/tree/master/1980-find-unique-binary-string) |
 | [2429-design-a-food-rating-system](https://github.com/isahilmishra/a2z-sheet/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/isahilmishra/a2z-sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-minimum-number-of-frogs-croaking](https://github.com/isahilmishra/a2z-sheet/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/isahilmishra/a2z-sheet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1980-find-unique-binary-string](https://github.com/isahilmishra/a2z-sheet/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/isahilmishra/a2z-sheet/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/isahilmishra/a2z-sheet/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/isahilmishra/a2z-sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/0090-subsets-ii) |
+| [1980-find-unique-binary-string](https://github.com/isahilmishra/a2z-sheet/tree/master/1980-find-unique-binary-string) |
 ## Enumeration
 |  |
 | ------- |
