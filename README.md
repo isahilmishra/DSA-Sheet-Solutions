@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/isahilmishra/a2z-sheet/tree/master/3311-ant-on-the-boundary) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/isahilmishra/a2z-sheet/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3689-maximum-total-subarray-value-i](https://github.com/isahilmishra/a2z-sheet/tree/master/3689-maximum-total-subarray-value-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/isahilmishra/a2z-sheet/tree/master/3790-fruits-into-baskets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/isahilmishra/a2z-sheet/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/isahilmishra/a2z-sheet/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/isahilmishra/a2z-sheet/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3678-design-task-manager](https://github.com/isahilmishra/a2z-sheet/tree/master/3678-design-task-manager) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/isahilmishra/a2z-sheet/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-minimum-number-of-frogs-croaking](https://github.com/isahilmishra/a2z-sheet/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/isahilmishra/a2z-sheet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/isahilmishra/a2z-sheet/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/isahilmishra/a2z-sheet/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
